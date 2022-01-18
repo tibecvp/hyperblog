@@ -35,3 +35,7 @@ curso de git.
 
 <git diff 5a29a9cbf70309f7e7e46646adabff7981b8ed87 334e748655cd7cc3489776aca64c13aa11fbe867>
 // Compara dos versiones del archivo y me muestra los cambios que han habido
+
+<git reset 334e748655cd7cc3489776aca64c13aa11fbe867>
+// Vuelve todo el repositorio al estado de un commit anterior y se borran los cambios posteriores
+// a dicho commit.

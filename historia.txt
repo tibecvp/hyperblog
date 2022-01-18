@@ -16,3 +16,16 @@ curso de git.
 <git rm historia.txt> <git rm -f historia.txt> <git rm --cached historia.txt>
 // Quitar el archivo del repositorio nuevamente
 
+<git commit -m "Este es el primer commint del repo">
+// Se hace commit de los cambios con un mensaje
+
+<git config --global user.name "Tibe Calderon">
+<git config --global user.email "tibecvp@gmail.com">
+<git config --list>
+// Cambio la configuración de git para los commits
+
+<git add .>
+// Agrega todos los cambios del repositorio a git
+
+<git log historia.txt>
+// Me muestra el historial de los commits que se han hecho al archivo

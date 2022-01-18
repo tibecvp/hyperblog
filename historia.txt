@@ -39,3 +39,8 @@ curso de git.
 <git reset 334e748655cd7cc3489776aca64c13aa11fbe867>
 // Vuelve todo el repositorio al estado de un commit anterior y se borran los cambios posteriores
 // a dicho commit.
+
+<git checkout 5a29a9cbf70309f7e7e46646adabff7981b8ed87>
+// Me devuelve un archivo a un estado anterior
+<git checkout master>
+// Vuelvo y lo dejo como estaba porque no he hecho commit

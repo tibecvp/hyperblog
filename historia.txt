@@ -1,0 +1,18 @@
+En este archivo vamos a documentar los comandos que vamos utilizando en el
+curso de git.
+
+<git init> 
+// Con este comando inicializamos un repositorio de git en la ruta que
+// queremos iniciar el control de versiones
+// /Users/tcalderon/Documents/Tibecvp/Cursos/frontend-developer/git&gitHub/proyecto1
+
+<git status>
+// Este comando nos dice si hay cambios en el repositorio que no han sido guardados
+// en git.
+
+<git add historia.txt>
+// Agrega el archivo historia.txt al repositorio, pero aún no se le ha hecho commit
+
+<git rm historia.txt> <git rm -f historia.txt> <git rm --cached historia.txt>
+// Quitar el archivo del repositorio nuevamente
+

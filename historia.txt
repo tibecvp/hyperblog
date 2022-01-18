@@ -29,3 +29,9 @@ curso de git.
 
 <git log historia.txt>
 // Me muestra el historial de los commits que se han hecho al archivo
+
+<git show historia.txt>
+// Muestra los cambios que se hicieron en el último commit
+
+<git diff 5a29a9cbf70309f7e7e46646adabff7981b8ed87 334e748655cd7cc3489776aca64c13aa11fbe867>
+// Compara dos versiones del archivo y me muestra los cambios que han habido

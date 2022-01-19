@@ -1,0 +1,5 @@
+<git branch cabecera>
+// Crea un nuevo branch llamado cabecera
+
+<git checkout cabecera>
+// Me cambio del brach master al branch cabecera

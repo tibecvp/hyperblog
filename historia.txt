@@ -44,3 +44,7 @@ curso de git.
 // Me devuelve un archivo a un estado anterior
 <git checkout master>
 // Vuelvo y lo dejo como estaba porque no he hecho commit
+
+<git commit -am "Se hacen cambios en el post html y algunos estilos.">
+// con "commit -am" se puede hacer el add y commit en un solo comando para los archivos que 
+// previamente se les había hecho add al repo.

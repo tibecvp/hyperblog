@@ -1,2 +1,11 @@
 <git remote add origin https://github.com/tibecvp/hyperblog.git>
 // Se conecta con el repositorio de GitHub
+
+<git remote>
+// Muestra si hay un origin
+
+<git remote -v>
+// Muestra el origin para fetch y push
+
+<git push origin master>
+// Se envían los cambios de master a origin

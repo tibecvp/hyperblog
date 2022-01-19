@@ -3,3 +3,11 @@
 
 <git checkout cabecera>
 // Me cambio del brach master al branch cabecera
+
+<git branch>
+// Me muestra la lista de los branches que tengo y en cual estoy ubicado
+// actualmente
+
+<git merge cabecera>
+// Lo debo hacer desde master para que me traiga los cambios del branch cabecera
+// Si hay conflictos, me pide arreglarlos y hacer commit.
